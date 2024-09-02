@@ -2,3 +2,5 @@
 .venv/Lib
 .venv
 .idea
+/about.html/
+/tutorial.html/
